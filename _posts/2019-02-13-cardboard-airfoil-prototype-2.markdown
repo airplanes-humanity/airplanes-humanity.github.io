@@ -15,7 +15,7 @@ The cardboard was still too stiff to achieve the desired radius of curvature. Ne
 
 ![Cardboard airfoil opened to show ribs, scoring and removed paper](/assets/CardboardAirfoil2_Ribs.jpg)
 
-<img src="/assets/CardboardAirfoil2_Profile_Ribs.jpg" alt="Experiment 2: Profile of the airfoil with a layer of paper removed around the main curve" width="400" height="300"/>(/assets/CardboardAirfoil2_Profile_Ribs.jpg)
+<div style="text-align:center"><img src="/assets/CardboardAirfoil2_Profile_Ribs.jpg" alt="Experiment 2: Profile of the airfoil with a layer of paper removed around the main curve" width="400" height="300"/></div>
 
 ##Experiment 2: Removing Inner Paper Layer
 This worked very well but the number and distribution of scores along the cardboard needed to be increased.
