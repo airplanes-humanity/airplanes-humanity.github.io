@@ -14,7 +14,8 @@ The second airfoil was constructed using the heavier 24" x 48" 200 lb cardboard 
 The cardboard was still too stiff to achieve the desired radius of curvature. Next, the length of the airfoil was divided into two to test the behavior with a) just one layer of paper removed and b) with both a layer of paper and the corrugated layer removed.
 
 ![Cardboard airfoil opened to show ribs, scoring and removed paper](/assets/CardboardAirfoil2_Ribs.jpg)
-<img src="/assets/CardboardAirfoil2_Profile_Ribs.jpg" alt="Experiment 2: Profile of the airfoil with a layer of paper removed around the main curve" width="300" height="400"/>(/assets/CardboardAirfoil2_Profile_Ribs.jpg)
+
+<img src="/assets/CardboardAirfoil2_Profile_Ribs.jpg" alt="Experiment 2: Profile of the airfoil with a layer of paper removed around the main curve" width="400" height="300"/>(/assets/CardboardAirfoil2_Profile_Ribs.jpg)
 
 ##Experiment 2: Removing Inner Paper Layer
 This worked very well but the number and distribution of scores along the cardboard needed to be increased.
