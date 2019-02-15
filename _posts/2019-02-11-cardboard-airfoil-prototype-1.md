@@ -7,7 +7,7 @@ author: Maya Deen
 
 This airfoil prototype was created using construction guidelines from an RC plane hobbyist on Youtube, ExperimentalAirlines. He uses paper-covered foam from the Dollar Store to construct his airfoil. The YouTube video is included below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/karr67ZYho4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/karr67ZYho4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 One of our constraints is that the glider be biodegradable to limit the environmental impact of our project. As a result, I attempted to replicate his airfoil construction using a sheet of 13" x 19" 150 lb cardboard. The chord for this airfoil was chosen to be 5" so it would fit on a single sheet.
 
