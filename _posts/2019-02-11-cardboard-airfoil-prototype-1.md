@@ -11,7 +11,7 @@ This airfoil prototype was created using construction guidelines from an RC plan
 
 One of our constraints is that the glider be biodegradable to limit the environmental impact of our project. As a result, I attempted to replicate his airfoil construction using a sheet of 13" x 19" 150 lb cardboard. The chord for this airfoil was chosen to be 5" so it would fit on a single sheet.
 
-![Profile image of cardboard airfoil][\assets\CardboardAirfoil1_Profile.jpg]
+![Profile image of cardboard airfoil](\assets\CardboardAirfoil1_Profile.jpg)
 
 ### Lesson 1: Removing the Inner Paper Layer
 While it seems suitable for a foam wing, removing the paper layer did not add any benefit to the construction of the wing. It made it much more difficult to glue the trailing edges together because of the dramatic reduction in surface area.
