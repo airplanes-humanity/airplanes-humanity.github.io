@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Needs of humanitarian aid"
+title:  "Needs of Humanitarian Aid"
 date:   2019-01-20
 author: Kiran Rao
 ---
