@@ -12,6 +12,8 @@ There are four critical components to humanitarian aid: food, water, medical sup
 ### Needs Assessment
 Given the expected increase in humanitarian disasters in the near future due to climate change [3] and rising political tensions, government and humanitarian aid agencies need a low-cost, disposable method for delivering humanitarian aid supplies to large, isolated populations in active combat zones.
 
+#### References
+
 [1] Vox, The crisis in Aleppo, explained in 4 minutes. 2018.
 
 [2] F. Busse, Aleppo and Beyond: Options for Delivering Humanitarian Aid in Dangerous Conditions. MIT Lincoln Laboratory, 2016.
