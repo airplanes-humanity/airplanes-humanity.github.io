@@ -14,7 +14,7 @@ Given the expected increase in humanitarian disasters in the near future due to 
 
 #### References
 
-[1] Vox, The crisis in Aleppo, explained in 4 minutes. 2018.
+[1] [Vox, The crisis in Aleppo, explained in 4 minutes. 2018](https://www.youtube.com/watch?v=HsXi6MtyrIU).
 
 [2] F. Busse, Aleppo and Beyond: Options for Delivering Humanitarian Aid in Dangerous Conditions. MIT Lincoln Laboratory, 2016.
 
