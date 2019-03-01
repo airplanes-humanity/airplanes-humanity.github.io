@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testing Strategy - Custom vs Purchased Glider Body"
-date:   2019-01-25
+date:   2019-03-01
 author: Sasha Hall
 ---
 
@@ -15,4 +15,3 @@ Meanwhile several glider body prototypes could be developed and free-fall tested
 
 Once satisfied with the designed body, the tested electronic components could be fitted to it and integrated system testing could begin, testing control algorithms with the new body to ensure smooth flying with the different aerodynamic properties. Once these are updated, the autonomy could be tested as well, hopefully leading us towards a viable product.
 
-Thanks for reading,
