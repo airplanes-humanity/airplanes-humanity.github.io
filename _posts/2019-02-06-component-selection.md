@@ -13,7 +13,8 @@ Components with larger footprints were selected to fit these tolerances. However
 
 ## Main Board
 
-![Motherboard Layout](/assets/schematics/Main.png =250x)
+<img src="/assets/schematics/Main.png" alt="Motherboard Layout" width="250"/>
+
 
 
 The main board handles power delivery, as well as having sensors and connectors to interface with servos. A fuse is placed in between the lithium polymer battery and the power on switch to be able to deal with short circuits. A linear regulator was used to produce the voltage that powers the sensors and other logic circuitry, while the power rail (that powers the servos) can be run directly from the battery voltage. Electrolytic capacitor are used on both power lines to handle any abrupt changes in voltage.
