@@ -21,6 +21,8 @@ The IMU circuitry is based on the reference design found in the IMU datasheets. 
 
 The main board handles power delivery, as well as having sensors and connectors to interface with servos. A fuse is placed in between the lithium polymer battery and the power on switch to be able to deal with short circuits. A linear regulator was used to produce the voltage that powers the sensors and other logic circuitry, while the power rail (that powers the servos) can be run directly from the battery voltage. Electrolytic capacitor are used on both power lines to handle any abrupt changes in voltage.
 
+[Motherboard Schematic](/assets/schematics/Main.pdf)
+
 ## MCU Boards
 
 Two microcontrollers boards were designed: One board for the EFM8 microcontroller, and another for an Atmega328PB (similar to the microcontroller found in the Arduino UNO but with more pins available). This would allow for easier initial development (as there are many more libraries and pins available on the Atmega chip) but would also let use have hardware closer to what we would eventually want to use (the EFM8). Both of the boards are pin compatible with the socket on the main board, allowing for easy on the fly swaps with each other.
