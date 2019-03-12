@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Needs of Humanitarian Aid"
+title:  "Existing Solutions, End-User Research and Criteria Development"
 date:   2019-01-20
 author: Sasha Hall
 ---
