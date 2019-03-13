@@ -11,6 +11,15 @@ permalink: /updates/
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
+    {% if post.preview %}
+      <a href="{{ post.url | prepend: site.baseurl }}"
+        style="background-image: url({{ post.preview }});
+          background-position: 50% 30% !important;
+          height: 250px;
+          display: block;
+          margin-bottom: 1rem;">
+      </a>
+    {% endif %}
     <section class="post-excerpt" itemprop="description">
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </section>

@@ -4,6 +4,7 @@ title:  "Arduino Prototype"
 date:   2019-02-20
 cover:  "/assets/SoftwareCover.jpg"
 author: Kiran Rao
+preview: "/assets/SoftwareCover.jpg"
 ---
 
 In order to expedite software development, we will be testing using an Arduino Prototype. Therefore, we can interface with sensors before moving to the custom PCB.
