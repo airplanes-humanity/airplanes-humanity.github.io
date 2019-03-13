@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cardboard Flight Test #1"
-date:   2019-03-11
+date:   2019-03-08
 author: Brennen Kulikowski
 preview: "/assets/glider_skeleton.jpg"
 ---
