@@ -3,6 +3,7 @@ layout: post
 title:  "Cardboard Airfoil Prototype #2"
 date:   2019-02-13
 author: Maya Deen
+preview: "/assets/CardboardAirfoil2_Profile_Ribs.jpg"
 ---
 
 The second airfoil was constructed using the heavier 24" x 48" 200 lb cardboard sheet. A 10" chord was chosen arbitrarily because this airfoil was only for experimental purposes to learn how to work with the material.

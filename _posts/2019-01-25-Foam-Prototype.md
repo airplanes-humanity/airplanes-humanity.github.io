@@ -3,6 +3,7 @@ layout: post
 title:  "Foam-Ribbed Structural Prototype"
 date:   2019-01-25
 author: Brennen Kulikowski
+preview: "/assets/Foam1.jpg"
 ---
 
 The first attempt at creating a rigid structure for the aircraft was started using craft foam-core, and wooden dowels.

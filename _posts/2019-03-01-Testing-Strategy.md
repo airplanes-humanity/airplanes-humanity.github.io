@@ -3,6 +3,7 @@ layout: post
 title:  "Testing Strategy - Custom vs Purchased Glider Body"
 date:   2019-03-01
 author: Sasha Hall
+preview: "/assets/RC_Plane.jpg"
 ---
 
 Building our own glider comes with certain timing challenges. There are 2 main components to the glider: the mechanical body and the glider electronics. Each has a design, development, and testing phase. Since certain electronic components depend on a working mechanical system for testing such as controls and system modeling, delays in mechanical work could lead to severe delays in electrical and programming work. We decided the optimal solution was to obtain a working glider body for electrical testing while working on our own mechanical design in parallel.

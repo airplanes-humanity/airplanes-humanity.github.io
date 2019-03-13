@@ -3,6 +3,7 @@ layout: post
 title:  "Cardboard Airfoil Prototype #1"
 date:   2019-02-11
 author: Maya Deen
+preview: "/assets/CardboardAirfoil1_Profile.jpg"
 ---
 
 This airfoil prototype was created using construction guidelines from an RC plane hobbyist on Youtube, ExperimentalAirlines. He uses paper-covered foam from the Dollar Store to construct his airfoil. The YouTube video is included below.
