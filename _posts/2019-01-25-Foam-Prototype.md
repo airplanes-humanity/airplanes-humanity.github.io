@@ -5,8 +5,8 @@ date:   2019-01-25
 author: Brennen Kulikowski
 ---
 
-The first attempt at created a rigid structure for the aircraft was started using craft foam-core, and wooden dowels.
-The cross section was a hand-cut approximation of the NACA 4418 airfoil. The body itself was modelled after an
+The first attempt at creating a rigid structure for the aircraft was started using craft foam-core, and wooden dowels.
+The cross section was a hand-cut approximation of the NACA 4418 airfoil. The body itself was modeled after an
 [open-source](https://www.circuitgrove.com/products/openrc-swift-freeopen) 3D-printed flying wing structure. This featured
 both swept and tapered wings.
 
@@ -19,6 +19,6 @@ It became clear that this form of assembly - relying on the strength of the dowe
 ![Foamcore Fuselage and Wing](/assets/Foam3.jpg)
 
 Therefore it was decided that future iterations would rely on the strength of the cardboard, in order to reduce the required
-number of ribs, and simplify the manufacturing process. In addition, although the swept wings pulled the aerodyamic center further
+number of ribs and simplify the manufacturing process. In addition, although the swept wings pulled the aerodynamic center further
 aft of the aircraft, the additional complexity from the sweep and taper is not ideal. Hence future iterations will likely feature
 rectangular wings to simplify fabrication.
