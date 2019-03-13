@@ -3,7 +3,7 @@ layout: post
 title:  "Cardboard Flight Test #1"
 date:   2019-03-11
 author: Brennen Kulikowski
-preview: "/assets/cardboard_glider.png"
+preview: "/assets/CardboardTest1.gif"
 ---
 
 After connecting the new version of the cardboard wings to the main body, it was time to perform some initial flight tests. 
