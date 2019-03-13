@@ -15,12 +15,12 @@ This worked very well but the number and distribution of scores along the cardbo
 
 ![Cardboard airfoil opened to show ribs, scoring and removed paper](/assets/CardboardAirfoil2_Ribs.jpg)
 
-![Experiment 2: Profile of the airfoil with a layer of paper removed around the main curve](/assets/CardboardAirfoil2_Profile_Ribs.jpg) 
+![Experiment 2: Profile of the airfoil with a layer of paper removed around the main curve](/assets/CardboardAirfoil2_Profile_Ribs.jpg)
 
 ### Experiment 3: Removing Inner Paper Layer + Corrugated Layer
 The airfoil curve was too flexible without the corrugated layer along the curve. It would need to be reinforced, defeating the purpose of removing the corrugated layer.
 
 ### Experiment 4: Creating the Control Surface
-The excess cardboard strip along the trailing edge of the airfoil was scored to allow it to bend, however it would only bend in one direction. To allow it to bend in the opposite direction, a small strip of the corrugated layer was removed along the score. A demonstration of the range of motion of the control surface is shown below.
+The excess cardboard strip along the trailing edge of the airfoil was scored to allow it to bend, however, it would only bend in one direction. To allow it to bend in the opposite direction, a small strip of the corrugated layer was removed along with the score. A demonstration of the range of motion of the control surface is shown below.
 
-![Gif of cardboard airfoil control surface demonstrating range of motion](/assets/Airfoil2ControlSurface.gif)
+![Gif of cardboard airfoil control surface demonstrating the range of motion](/assets/Airfoil2ControlSurface.gif)
