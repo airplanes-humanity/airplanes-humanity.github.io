@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Massive humanitarian crises are occurring around the world such as the Siege of Aleppo and the Yemen Civil War, endangering innocent residents with starvation and lack of medical supplies. Active combat zones make it very difficult for aid organizations to safely deliver direly needed supplies. Our solution is single use, low-cost, autonomous gliders made of environmentally friendly materials which can carry supplies to civilians on the ground and be delivered from a safe distance.
+Massive humanitarian crises are occurring around the world such as the Siege of Aleppo and the Yemen Civil War, endangering innocent residents with starvation and lack of medical supplies. Active combat zones make it very difficult for aid organizations to safely deliver direly needed supplies. Our solution is single-use, low-cost, autonomous gliders made of environmentally friendly materials which can carry supplies to civilians on the ground and be delivered from a safe distance.
 
 ## Features
 ### Easy to Use
