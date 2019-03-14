@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Problem Statement"
+cover:  "/assets/blue_square.png"
 permalink: /problemstatement/
 ---
 ### Context
