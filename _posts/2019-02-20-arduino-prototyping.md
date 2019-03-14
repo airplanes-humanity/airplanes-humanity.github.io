@@ -2,7 +2,6 @@
 layout: post
 title:  "Arduino Prototype"
 date:   2019-02-20
-cover:  "/assets/SoftwareCover.jpg"
 author: Kiran Rao
 preview: "/assets/SoftwareCover.jpg"
 ---
