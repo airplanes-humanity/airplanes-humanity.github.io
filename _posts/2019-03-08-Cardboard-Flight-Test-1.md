@@ -8,7 +8,7 @@ preview: "/assets/glider_skeleton.jpg"
 
 After connecting the new version of the cardboard wings to the main body, it was time to perform some initial flight tests. 
 Before making the trek to E7, some initial stability tests were performed in the hallway outside of our workspace.
-The first attempt was highly unstable, spinning backwards very quickly. In order to compensate, some mass (in the form of
+The first attempt was highly unstable, spinning backward very quickly. In order to compensate, some mass (in the form of
 bags of rice) was added to the front of the glider to move the center of mass forward and improve stability.
 
 ![Cardboard Hall Test 2](/assets/CardboardTest1.gif)
@@ -34,7 +34,7 @@ We then performed another test to see the effect on flight stability.
 
 This prevented the near-fatal nosedive, at the expense of the traversal distance of the previous test.
 
-With these experiments, we believe that the control surfaces on the glider are insufficent to generate sufficient aerodynamic moment.
+With these experiments, we believe that the control surfaces on the glider are insufficient to generate sufficient aerodynamic moment.
 In addition, although the straight wings generate more lift, swept wings would likely be a good tool to move the center of aerodynamic
 force away from the center of mass, further improving stability. Hence, another iteration of the cardboard glider will be created,
 using swept wings and larger control surfaces to improve in-flight stability.
