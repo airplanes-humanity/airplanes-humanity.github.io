@@ -10,7 +10,7 @@ We are passionate about using engineering to make a positive difference in the w
 <div class="people">
 <figure>
   <img width="120px" height="120px" src="{{ site.baseurl}}/assets/people/kiran.jpg" />
-  <figcaption>Kiran Rao - Software Developer</figcaption>
+  <figcaption><a href="//kiranrao.ca" target="_blank" rel="noopener">Kiran Rao</a> - Software Developer</figcaption>
 </figure>
 
 <figure>
