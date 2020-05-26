@@ -8,7 +8,7 @@ preview: "/assets/Foam1.jpg"
 
 The first attempt at creating a rigid structure for the aircraft was started using craft foam-core, and wooden dowels.
 The cross section was a hand-cut approximation of the NACA 4418 airfoil. The body itself was modeled after an
-[open-source](https://www.circuitgrove.com/products/openrc-swift-freeopen) 3D-printed flying wing structure. This featured
+[open-source](https://3dprint.com/46348/openswift-flying-wing/) 3D-printed flying wing structure. This featured
 both swept and tapered wings.
 
 
