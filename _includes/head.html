@@ -7,7 +7,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% if site.name %}
   <meta name="author" content="{{ site.name }}">
-  <meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
+  <meta name="copyright" content="&copy; {{ site.name }}{{ site.author }} {{ site.time | date: '%Y' }}">
   {% endif %}
 
   <!-- External libraries -->
